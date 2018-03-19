@@ -5,7 +5,7 @@ var Q = require('q')
 var svgicons2svgfont = require('svgicons2svgfont')
 var svg2ttf = require('svg2ttf')
 var ttf2woff = require('ttf2woff')
-var ttf2woff2 = require('ttf2woff2')
+var ttf2woff2 = require('@tfoxy/ttf2woff2')
 var ttf2eot = require('ttf2eot')
 
 /**
